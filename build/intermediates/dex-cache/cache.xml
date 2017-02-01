@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/praveens/me/work/Android/AndroidWorkSpace/android-booksearch-exercise/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/praveens/me/work/Android/AndroidWorkSpace/android-booksearch-exercise/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.0_286a38033213625141fbe4697b400b48f95f96a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/praveens/me/work/Android/AndroidWorkSpace/android-booksearch-exercise/app/build/intermediates/exploded-aar/com.github.hotchemi/permissionsdispatcher/2.0.7/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="29af0f4b1d0f855e54d965157ab303ccd0a033d0">
+        <dex dex="/Users/praveens/me/work/Android/AndroidWorkSpace/android-booksearch-exercise/app/build/intermediates/pre-dexed/debug/com.github.hotchemi-permissionsdispatcher-2.0.7_c3b83488596b15ea1d6dc6bb5d311fa28cc3dd95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/praveens/me/work/Android/AndroidWorkSpace/android-booksearch-exercise/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/praveens/me/work/Android/AndroidWorkSpace/android-booksearch-exercise/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_1f5c3ef19614371919ce4cf23ad9a36d3d43cd21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/praveens/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.9/386a4339ffe52d5d63e80f9bed8d2b1d1a418249/android-async-http-1.4.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="/Users/praveens/me/work/Android/AndroidWorkSpace/android-booksearch-exercise/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.9_1221e161d0a37712d2aa8bb128885cd5e0b86b4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/praveens/me/work/Android/AndroidWorkSpace/android-booksearch-exercise/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/praveens/me/work/Android/AndroidWorkSpace/android-booksearch-exercise/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.0_edabfe6350509a99bcd843ae3f1698c235445ee6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/praveens/me/work/Android/AndroidWorkSpace/android-booksearch-exercise/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/praveens/me/work/Android/AndroidWorkSpace/android-booksearch-exercise/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_3f6a056f42c5df7dd05ebc5b551eeb67e6e8d627.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/praveens/me/work/Android/AndroidWorkSpace/android-booksearch-exercise/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/praveens/me/work/Android/AndroidWorkSpace/android-booksearch-exercise/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_db6d9f538aee7f2a29d67461c13fe03e0d03a296.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/praveens/me/work/Android/AndroidWorkSpace/android-booksearch-exercise/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/praveens/me/work/Android/AndroidWorkSpace/android-booksearch-exercise/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.0_22fedc8045e949ff4da14b4ffa308295e74861fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/praveens/.gradle/caches/modules-2/files-2.1/cz.msebera.android/httpclient/4.3.6/526a9f794eab830eae4f23a62c572878b3f491ab/httpclient-4.3.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="/Users/praveens/me/work/Android/AndroidWorkSpace/android-booksearch-exercise/app/build/intermediates/pre-dexed/debug/httpclient-4.3.6_add7397853ff0246bbc53ddbd37c210bcd213220.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/praveens/me/work/Android/AndroidWorkSpace/android-booksearch-exercise/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/praveens/me/work/Android/AndroidWorkSpace/android-booksearch-exercise/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.0_622f7f3e7c707516640ee782d5eb2f6d7ce1db59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/praveens/me/work/Android/AndroidWorkSpace/android-booksearch-exercise/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/praveens/me/work/Android/AndroidWorkSpace/android-booksearch-exercise/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.0_dbeafdc14bbe4c4259e949981f1a440b7bf623d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/praveens/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/praveens/me/work/Android/AndroidWorkSpace/android-booksearch-exercise/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_8bb7aca630338706ef1e152289b079bc49428066.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/praveens/me/work/Android/AndroidWorkSpace/android-booksearch-exercise/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/praveens/me/work/Android/AndroidWorkSpace/android-booksearch-exercise/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.0_8c062a2a298231205714d237dd08dc1ace9b5034.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/praveens/me/work/Android/AndroidWorkSpace/android-booksearch-exercise/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/praveens/me/work/Android/AndroidWorkSpace/android-booksearch-exercise/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.0_0bcbcc61e99099f370f8802184a9393a2e3bc1cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/praveens/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/praveens/me/work/Android/AndroidWorkSpace/android-booksearch-exercise/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.0_11055b7ceabed98524c367a7794cc074563293ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/praveens/me/work/Android/AndroidWorkSpace/android-booksearch-exercise/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/praveens/me/work/Android/AndroidWorkSpace/android-booksearch-exercise/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_034a9d0a4d9ee7e648667fe54292f38a4e791b16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/praveens/me/work/Android/AndroidWorkSpace/android-booksearch-exercise/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/praveens/me/work/Android/AndroidWorkSpace/android-booksearch-exercise/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.0_7e606d36dbe8568be5950094f08065f3fa479768.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/praveens/me/work/Android/AndroidWorkSpace/android-booksearch-exercise/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/praveens/me/work/Android/AndroidWorkSpace/android-booksearch-exercise/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.0_0615416dc450f4c633d836076bf3ab12ef64a99e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/praveens/me/work/Android/AndroidWorkSpace/android-booksearch-exercise/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/praveens/me/work/Android/AndroidWorkSpace/android-booksearch-exercise/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_30d9a041acf2cde8e0664cdf40c365b5d434dacc.jar" />
+    </item>
+
+</items>
