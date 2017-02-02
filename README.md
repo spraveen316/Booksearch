@@ -1,41 +1,38 @@
-# Book Search App
+# Lab: Week 2 - *Booksearch*
 
-Android app that leverages the [OpenLibrary API](https://openlibrary.org/developers/api) to search books and display cover images. This app is to be used as the base app for adding suggested extensions.
+**Booksearch** is a book search app.
 
-![Imgur](http://i.imgur.com/NJmF42Yl.png)
+Submitted by: **Praveen Shangunathan**
 
-## Overview
+## User Stories
 
-The app does the following:
+The following **required** functionality is completed:
+* [X] Implemented feature listed in [Lab-2](https://courses.codepath.com/courses/yahoo_android_fast_track/unit/2#!exercises)
 
-1. Fetch the books from the [OpenLibrary Search API](https://openlibrary.org/dev/docs/api/search) in JSON format
-2. Deserialize the JSON data for each of the books into `Book` objects
-3. Build an array of `Book` objects and create an `ArrayAdapter` for those books
-4. Define `getView` to define how to inflate a layout for each book row and display each book's data.
-5. Attach the adapter for the books to a ListView to display the data on screen
+## Video Walkthrough
 
-To achieve this, there are four different components in this app:
+Here's a walkthrough of implemented user stories:
 
-1. `BookClient` - Responsible for executing the API requests and retrieving the JSON
-2. `Book` - Model object responsible for encapsulating the attributes for each individual book
-3. `BookAdapter` - Responsible for mapping each `Book` to a particular view layout
-4. `BookListActivity` - Responsible for fetching and deserializing the data and configuring the adapter
+<img src='https://github.com/spraveen316/Flixter/blob/master/Flixter.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-## Usage
-This app is intended to be the base project on top of which new features can be added. To use it, clone the project and import it using the following steps:
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
-![Imgur](http://i.imgur.com/joPKoTk.gif)
+## Notes
 
-## Suggested Extensions
+Starting the emulator successfully all the time was an issue. Once I had to reboot my machine to get this started.
 
-1. Use SearchView to search for books with a title
-2. Show ProgressBar before each network request
-3. Add a detail view to display more information about the selected book from the list
-4. Use a share intent to recommend a book to friends
+## License
 
-## Libraries
+    Copyright [2017] [Praveen Shangunathan]
 
-This app leverages two third-party libraries:
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
 
- * [Android AsyncHTTPClient](http://loopj.com/android-async-http/) - For asynchronous network requests
- * [Picasso](http://square.github.io/picasso/) - For remote image loading
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
