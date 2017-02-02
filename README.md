@@ -13,7 +13,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/spraveen316/Flixter/blob/master/Flixter.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/spraveen316/Booksearch/blob/master/Booksearch.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
